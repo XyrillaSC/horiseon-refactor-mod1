@@ -6,6 +6,8 @@ Over the corse of this refactor, I replaced non-semantic elements with their new
 
 To further achieve a more accessible state, I added alternate descriptions to all images and adjusted headings in order to better represent their uses on the webpage.
 
+Several Class selectors have been consolidated to eliminate redundancy. As well as several unused ids deleted.
+
 Finally, general polish has been added to the code as it has been properly commented, as well as adjusted to provide more clarity as to the use of some class selectors.
 
 ## Credits
