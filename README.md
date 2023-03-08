@@ -16,8 +16,8 @@ README Template provided by [https://coding-boot-camp.github.io/full-stack/githu
 
 ## Screenshot
 
-
+![screenshot of deployed website](assets/images/deployed-screen.png)
 
 ## Link to Deployed Page
 
-
+[HoriseonSSSIncLink](https://xyrillasc.github.io/horiseon-refactor-mod1/)
